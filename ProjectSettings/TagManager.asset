@@ -9,6 +9,11 @@ TagManager:
   - Platform
   - PlatformL
   - finish
+  - FxTemporaire
+  - box1
+  - box2
+  - box3
+  - box4
   layers:
   - Default
   - TransparentFX
@@ -16,7 +21,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - boxLayer
   - 
   - 
   - 
